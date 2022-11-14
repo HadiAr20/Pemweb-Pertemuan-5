@@ -13,7 +13,7 @@ Berikut dibawah ini merupakan hasil dari tugas yang dikerjakan
 <details>
 <summary>Data Tabel</summary>
 
-Data yang saya buat berjumlah 10 data mahasiswa
+Data yang saya buat berjumlah 12 data mahasiswa
 
 ![Data Mahasiswa](Pertemuan5-main/src/data_table.png)
 </details>
