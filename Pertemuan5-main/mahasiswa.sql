@@ -48,7 +48,9 @@ INSERT INTO `mahasiswa` (`nim`, `nama`, `prodi`) VALUES
 (120130008, 'Icha Sitorus', 'EL'),
 (120130020, 'Adam Kesuma Wijaya', 'EL'),
 (121140071, 'Maharani Triza Putri', 'IF'),
-(121140116, 'Retri Dela', 'IF');
+(121140116, 'Retri Dela', 'IF'),
+(122210001, 'Ayu Prameswari', 'SI'),
+(122210001, 'Ramadhan Putra', 'SI');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
