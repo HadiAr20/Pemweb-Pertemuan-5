@@ -1,7 +1,7 @@
 # Pemweb-Pertemuan-5
-Tugas Praktikum Pemrograman Web Pertemuan 5
+Tugas Praktikum Pemrograman Web
 
-Muhammad Hadi Arsa (120140150)
+== Muhammad Hadi Arsa (120140150) ==
 
 > Membuat aplikasi web yang dapat menampilkan data mahasiswa ketika pengguna melakukan
 perubahan pada pilihan program studi yang tersedia menggunakan bantuan AJAX.
@@ -15,7 +15,7 @@ Berikut dibawah ini merupakan hasil dari tugas yang dikerjakan
 
 Data yang saya buat berjumlah 10 data mahasiswa
 
-![Data Mahasiswa](src/data_table.png)
+![Data Mahasiswa](Pertemuan5-main/src/data_table.png)
 </details>
 
 <details>
@@ -23,7 +23,7 @@ Data yang saya buat berjumlah 10 data mahasiswa
 
 Data yang terlihat masih kosong karena belum memilih *option* yang ada
 
-![Output1](src/output1.jpeg)
+![Output1](Pertemuan5-main/src/output1.jpeg)
 </details>
 
 <details>
@@ -31,7 +31,7 @@ Data yang terlihat masih kosong karena belum memilih *option* yang ada
 
 Tampilan ini saya buat agar pergantian data yang dipilih akan terlihat jelas
 
-![Output2](src/output2.png)
+![Output2](Pertemuan5-main/src/output2.png)
 </details>
 
 <details>
@@ -39,5 +39,5 @@ Tampilan ini saya buat agar pergantian data yang dipilih akan terlihat jelas
 
 Data yang terlihat akan sesuai dengan yang dipilih
 
-![Output3](src/output3.jpeg)
+![Output3](Pertemuan5-main/src/output3.jpeg)
 </details>
